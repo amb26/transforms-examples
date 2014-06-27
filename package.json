@@ -1,0 +1,16 @@
+{
+    "name": "transformation-examples",
+    "description": "Examples of use of the Infusion model transformation framework.",
+    "version": "0.1.0-SNAPSHOT",
+    "author": "Antranig Basman",
+    "dependencies": {
+        "infusion": "git://github.com/fluid-project/infusion.git#d4bca2deeca4e25ab1055a9a77e4b73a97441f5a"
+    },
+    "licenses": [
+         {
+             "type": "BSD-3-Clause",
+             "url": "http://www.opensource.org/licenses/BSD-3-Clause"
+         }
+    ],
+    "repository": "git://github.com/amb26/transformation-examples.git"
+}
